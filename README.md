@@ -1,6 +1,6 @@
 # UchanE_Tow
-```cs
- - 위치: vrp\modules\basic_garages.lua
+```
+ 위치: vrp\modules\basic_garages.lua
 ```
 ```lua
 MySQL.createCommand("vRP/get_UchanE_tow", "SELECT tow FROM UchanE_tow WHERE user_id = @user_id")
